@@ -36,7 +36,7 @@ public class ViewApp {
 
     public int getIndex() {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Input index: ");
+        System.out.print("Input id: ");
         return sc.nextInt();
     }
 }
